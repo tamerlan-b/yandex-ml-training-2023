@@ -3,6 +3,8 @@
 ### Assignments:  
 - [X] kNN;
 - [X] Laplace distribution;
+- [ ] Derivatives;
+- [ ] Power iteration;
 
 ### Useful links
 - [ML Training main page](https://yandex.ru/yaintern/training/ml-training)
