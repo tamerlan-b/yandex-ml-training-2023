@@ -3,7 +3,7 @@
 ### Assignments:  
 - [X] kNN;
 - [X] Laplace distribution;
-- [ ] Derivatives;
+- [X] Derivatives;
 - [ ] Power iteration;
 
 ### Useful links
