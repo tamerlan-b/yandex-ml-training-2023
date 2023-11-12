@@ -4,7 +4,7 @@
 - [X] kNN;
 - [X] Laplace distribution;
 - [X] Derivatives;
-- [ ] Power iteration;
+- [X] Power iteration;
 
 ### Useful links
 - [ML Training main page](https://yandex.ru/yaintern/training/ml-training)
