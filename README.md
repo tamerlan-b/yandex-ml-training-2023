@@ -5,6 +5,9 @@
 - [X] Laplace distribution;
 - [X] Derivatives;
 - [X] Power iteration;
+- [ ] Bagging and OOB;
+- [ ] Boosting;
+- [ ] MNIST classification;
 
 ### Useful links
 - [ML Training main page](https://yandex.ru/yaintern/training/ml-training)
