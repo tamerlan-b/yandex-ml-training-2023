@@ -5,7 +5,7 @@
 - [X] Laplace distribution;
 - [X] Derivatives;
 - [X] Power iteration;
-- [ ] Bagging and OOB;
+- [X] Bagging and OOB;
 - [ ] Boosting;
 - [ ] MNIST classification;
 
