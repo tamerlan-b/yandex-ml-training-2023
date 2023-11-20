@@ -6,7 +6,7 @@
 - [X] Derivatives;
 - [X] Power iteration;
 - [X] Bagging and OOB;
-- [ ] Boosting;
+- [X] Boosting;
 - [ ] MNIST classification;
 
 ### Useful links
