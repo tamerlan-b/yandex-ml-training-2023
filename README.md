@@ -7,7 +7,7 @@
 - [X] Power iteration;
 - [X] Bagging and OOB;
 - [X] Boosting;
-- [ ] MNIST classification;
+- [X] MNIST classification;
 
 ### Useful links
 - [ML Training main page](https://yandex.ru/yaintern/training/ml-training)
