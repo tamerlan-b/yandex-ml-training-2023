@@ -1,13 +1,14 @@
 # yandex-ml-training-2023
 
 ### Assignments:  
-- [X] kNN;
-- [X] Laplace distribution;
-- [X] Derivatives;
-- [X] Power iteration;
-- [X] Bagging and OOB;
-- [X] Boosting;
-- [X] MNIST classification;
+1. [X] kNN;
+1. [X] Laplace distribution;
+1. [X] Derivatives;
+1. [X] Power iteration;
+1. [X] Bagging and OOB;
+1. [X] Boosting;
+1. [X] MNIST classification;
+1. [ ] Feature importances.
 
 ### Useful links
 - [ML Training main page](https://yandex.ru/yaintern/training/ml-training)
