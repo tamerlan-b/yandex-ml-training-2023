@@ -8,7 +8,8 @@
 1. [X] Bagging and OOB;
 1. [X] Boosting;
 1. [X] MNIST classification;
-1. [X] Feature importances.
+1. [X] Feature importances;
+1. [ ] Final task.
 
 ### Useful links
 - [ML Training main page](https://yandex.ru/yaintern/training/ml-training)
