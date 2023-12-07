@@ -9,7 +9,7 @@
 1. [X] Boosting;
 1. [X] MNIST classification;
 1. [X] Feature importances;
-1. [ ] Final task.
+1. [X] Final task.
 
 ### Useful links
 - [ML Training main page](https://yandex.ru/yaintern/training/ml-training)
